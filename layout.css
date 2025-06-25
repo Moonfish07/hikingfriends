@@ -1,0 +1,19 @@
+.buttom { 
+	
+	border: 10px outset lightgreen;
+	color: black;
+	border-radius: 20px;
+	padding: 50px;
+	background-image: linear-gradient(to right bottom, lightgreen, green);
+	
+	width: 400px;
+	height: 0px;
+	position: fixed;
+	bottom:3px;
+	right: 120px;
+	
+	font-size: 25px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+	
+}
